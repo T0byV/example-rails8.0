@@ -1,4 +1,4 @@
-# Rails 7.1 Example App with Devise-Two-Factor
+# Rails 8.0 Example App with Devise-Two-Factor
 
 Devise has a bunch of [example applications](https://github.com/heartcombo/devise/wiki/Example-Applications)
 that provide examples of how Devise is used/installed.
@@ -9,7 +9,7 @@ Devise-Two-Factor was then adapted to the application.
 ### Requirements
 
 - Ruby 3.2.2
-- Rails 7.1.1
+- Rails 8.0.0
 
 ### Install
 
